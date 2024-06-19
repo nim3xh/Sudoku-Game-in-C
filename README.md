@@ -22,7 +22,7 @@ A command-line Sudoku game written in C. This program allows users to play Sudok
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sudoku-c-game.git
+   git clone https://github.com/nim3xh/Sudoku-Game-in-C.git
    cd sudoku-c-game
 2. **Compile the Code**:
    ```bash
