@@ -17,3 +17,21 @@ A command-line Sudoku game written in C. This program allows users to play Sudok
 - **Input a Number**: Enter a number between 1 and 9 to place on the board.
 - **Request a Hint**: Enter 'H' or 'h' to receive a hint for the selected cell.
 - **Game Mode**: Choose 0 for easy mode or 1 for hard mode at the start.
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/sudoku-c-game.git
+   cd sudoku-c-game
+2. **Compile the Code**:
+   ```bash
+   gcc sudoku.c -o sudoku
+3. **Run the Game**:
+     open tetris.exe
+    ```bash
+    ./sudoku
+## Requirements
+- **Windows OS**
+- **C Compiler (e.g., GCC)**
+- **Console Environment**
